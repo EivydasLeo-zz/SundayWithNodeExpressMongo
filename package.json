@@ -1,0 +1,26 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "d",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EivydasLeo/SundayWithNodeExpressMongo.git"
+  },
+  "keywords": [
+    "d"
+  ],
+  "author": "E.L",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EivydasLeo/SundayWithNodeExpressMongo/issues"
+  },
+  "homepage": "https://github.com/EivydasLeo/SundayWithNodeExpressMongo#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
